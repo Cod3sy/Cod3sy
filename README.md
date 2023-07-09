@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a [Bachelors Degree in Cybesecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html) and conquering boxes in [Hack the Box](https://app.hackthebox.com/login?redirect=%2Fhome)
 
-- 🌱 I’m currently learning **PowerShell, Python and Bash scripting.**
+- 🌱 I’m also currently trying to improve my skills at **PowerShell, Python and Bash scripting.**
 
 - 👯 I’m looking to collaborate on **IT helpdesk / operations automation.**
 

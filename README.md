@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cod3sy</h1>
-<h3 align="center">I am a techy, infosec enthused IT guy.</h3>
+<h3 align="center">I am a student / techy / infosec enthused IT guy.</h3>
 
-- 🔭 I’m currently working on [Cybersecurity Detection & Monitoring Lab](https://www.youtube.com/playlist?list=PLDqMNdDvMsRkmtiKcZwbhOz7MeLQE0r3G)
+- 🔭 I’m currently working on a [Bachelors Degree in Cybesecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html) and conquering boxes in [Hack the Box](https://app.hackthebox.com/login?redirect=%2Fhome)
 
 - 🌱 I’m currently learning **PowerShell, Python and Bash scripting.**
 

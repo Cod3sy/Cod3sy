@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Cod3sy</h1>
 <h3 align="center">I am a student / techy / infosec enthused IT guy.</h3>
+<img align = "right" alt = "defending" src = "https://cdn.dribbble.com/users/730703/screenshots/4169199/media/4250fbc74d058a968c7fe9170c674ac7.gif">
 
 - 🔭 I’m currently working on a [Bachelors Degree in Cybesecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html) and conquering boxes in [Hack the Box](https://app.hackthebox.com/login?redirect=%2Fhome)
 

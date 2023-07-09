@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I transitioned from a Foreman in the oilfields to a Tier 1 Technician at a MSP after building my first PC. Life can surprise you at the most random of times.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: codesysgithub@gmail.com</h3>
 <p align="left">
 </p>
 

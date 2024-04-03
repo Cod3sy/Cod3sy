@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Cod3sy</h1>
+<h1 align="center">Hi 👾, I'm Cod3sy</h1>
 <h3 align="center">I am a student / techy / infosec enthused IT guy.</h3>
 <img align = "right" alt = "defending" src = "https://i.imgur.com/1WtdrZ9.gif">
 
-- 🔭 I’m currently working on a [Bachelors Degree in Cybesecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html) and conquering boxes in [Hack the Box](https://app.hackthebox.com/login?redirect=%2Fhome)
+⚡ I’m currently working on a [Bachelors Degree in Cybesecurity and Information Assurance](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html), a AD User Account Creation Automation Tool and conquering boxes in [Hack the Box](https://app.hackthebox.com/login?redirect=%2Fhome)
 
-- 🌱 I’m also currently trying to improve my skills at **PowerShell, Python and Bash scripting.**
+⚡ I’m also currently trying to improve my skills at **PowerShell, SQL and Python.** 
 
-- 👯 I’m looking to collaborate on **IT helpdesk / operations automation.**
+⚡ Fun fact **I transitioned from a Foreman in the oilfields to a Tier 1 Technician at a MSP after building my first PC. Life can surprise you at the most random of times.**
 
-- ⚡ Fun fact **I transitioned from a Foreman in the oilfields to a Tier 1 Technician at a MSP after building my first PC. Life can surprise you at the most random of times.**
-
-<h3 align="left">Connect with me: codesysgithub@gmail.com</h3>
+<h3 align="left">Connect with me: cod3sysgithub@gmail.com</h3>
 <p align="left">
 </p>
 
